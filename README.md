@@ -1,2 +1,6 @@
 # PyCalc
-A Calculator
+A Calculator using python
+
+Use It if you want! it's 100% free!!!
+
+* It is in spanish
